@@ -1,0 +1,13 @@
+# Cadence Xcelium
+xcelium.d/
+xrun.history
+xrun.log
+
+# Simulation waveforms
+*.vcd
+*.fsdb
+*.shm
+
+# Temporary files
+*.swp
+*~
